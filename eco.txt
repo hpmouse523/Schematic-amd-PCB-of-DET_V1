@@ -1,0 +1,40 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Mon Aug 14 10:11:01 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J6                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+ J7                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+ J8                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+ J13                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+ J20                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+ J21                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Mon Aug 14 10:11:01 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J6.5                           PRIM_FILE      .\pstchip.dat
+ J7.5                           PRIM_FILE      .\pstchip.dat
+ J8.5                           PRIM_FILE      .\pstchip.dat
+ J13.5                          PRIM_FILE      .\pstchip.dat
+ J20.5                          PRIM_FILE      .\pstchip.dat
+ J21.5                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Components changed    :       6                                        |
+|       Slot property added   :       6                                        |
+|                                                                              |
+|   Total ECO changes reported:      12                                        |
+|------------------------------------------------------------------------------|

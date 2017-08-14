@@ -1,0 +1,66 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Mon Aug 14 10:06:05 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SMA_0_CON-BNC-S-T_SMA_PLATED
+ SMA_0_SMA_PLATED_SMA_PLATED
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Mon Aug 14 10:06:05 2017  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J2                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J3                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J4                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J5                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J6                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
+ J7                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
+ J8                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
+ J9                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
+ J13                 SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
+ J20                 SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
+ J21                 SMA_0_CON-BNC-S-T_SMA_PLATED 5509.00 7552.00 SMA_0_CON-BNC-S-T_SMA
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Mon Aug 14 10:06:05 2017  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ J1.5                           PRIM_FILE      .\pstchip.dat
+ J2.5                           PRIM_FILE      .\pstchip.dat
+ J3.5                           PRIM_FILE      .\pstchip.dat
+ J4.5                           PRIM_FILE      .\pstchip.dat
+ J5.5                           PRIM_FILE      .\pstchip.dat
+ J6.5                           PRIM_FILE      .\pstchip.dat
+ J7.5                           PRIM_FILE      .\pstchip.dat
+ J8.5                           PRIM_FILE      .\pstchip.dat
+ J9.5                           PRIM_FILE      .\pstchip.dat
+ J13.5                          PRIM_FILE      .\pstchip.dat
+ J20.5                          PRIM_FILE      .\pstchip.dat
+ J21.5          5509.00 7552.00 PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Comp definitions added:       2                                        |
+|       Components changed    :      12                                        |
+|       Slot property added   :      12                                        |
+|                                                                              |
+|   Total ECO changes reported:      26                                        |
+|------------------------------------------------------------------------------|

@@ -1,0 +1,462 @@
+\t (00:00:03) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:03)     Journal start - Mon Aug 14 09:37:49 2017
+\t (00:00:03)         Host=MSY-PC User=Msy Pid=632 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence16.6\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe E:\Work_File\CEPC\Schematic-amd-PCB-of-DET_V1\FEB_DET_1V0.brd
+\t (00:00:03) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd
+\i (00:00:04) trapsize 6609
+\i (00:00:04) trapsize 6490
+\i (00:00:04) trapsize 6629
+\i (00:00:04) trapsize 6687
+\i (00:00:05) trapsize 6687
+\i (00:00:06) placementedit 
+\i (00:04:28) pick grid 4388.234 3571.465
+\t (00:04:28) last pick:  4388.000 3571.000
+\i (00:04:38) pick grid 4384.222 3725.255
+\t (00:04:38) last pick:  4384.000 3725.000
+\i (00:05:50) xhilite 
+\i (00:05:50) xrefdes C207.1 
+\t (00:05:50) Can not select unplaced component C207.
+\i (00:05:50) xname_flush 
+\i (00:05:50) done 
+\i (00:05:50) placementedit 
+\i (00:05:52) xdehilite 
+\i (00:05:52) xrefdes C207.1 
+\t (00:05:52) Can not select unplaced component C207.
+\i (00:05:52) xname_flush 
+\i (00:05:52) done 
+\i (00:05:52) xhilite 
+\i (00:05:52) xrefdes C204.2 
+\t (00:05:52) Can not select unplaced component C204.
+\i (00:05:52) xname_flush 
+\i (00:05:52) done 
+\i (00:05:52) placementedit 
+\i (00:05:55) xdehilite 
+\i (00:05:55) xrefdes C204.2 
+\t (00:05:55) Can not select unplaced component C204.
+\i (00:05:55) xname_flush 
+\i (00:05:55) done 
+\i (00:05:55) xhilite 
+\i (00:05:55) xNet Hv_30V 
+\i (00:05:55) xname_flush 
+\i (00:05:55) trapsize 11409
+\t (00:05:55) Net "Hv_30V" highlighted.
+\i (00:05:55) done 
+\i (00:05:55) placementedit 
+\i (00:05:56) xdehilite 
+\i (00:05:56) xNet Hv_30V 
+\i (00:05:56) xname_flush 
+\t (00:05:56) Net "Hv_30V" dehighlighted.
+\i (00:05:56) done 
+\i (00:05:56) placementedit 
+\i (00:06:10) xhilite 
+\i (00:06:10) xNet Hv_30V 
+\i (00:06:10) xname_flush 
+\i (00:06:10) trapsize 11409
+\t (00:06:10) Net "Hv_30V" highlighted.
+\i (00:06:10) done 
+\i (00:06:10) placementedit 
+\i (00:06:11) xdehilite 
+\i (00:06:11) xNet Hv_30V 
+\i (00:06:11) xname_flush 
+\t (00:06:11) Net "Hv_30V" dehighlighted.
+\i (00:06:11) done 
+\i (00:06:11) placementedit 
+\i (00:06:30) zoom out 1 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out 3684.230 3506.907
+\i (00:06:30) trapsize 22817
+\i (00:06:30) zoom out 1 
+\i (00:06:30) setwindow pcb
+\i (00:06:30) zoom out 3684.229 3506.907
+\i (00:06:30) trapsize 45634
+\e (00:06:33) Command not found: 4£»¹Ø±Õ~e~esdwww
+\i (00:06:33) roam x -96 
+\i (00:06:34) roam x 96 
+\i (00:06:34) roam x 96
+\i (00:06:34) roam y -96 
+\i (00:06:34) roam y -96
+\i (00:06:34) zoom in 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom in 3474.904 3292.367
+\i (00:06:34) trapsize 22817
+\i (00:06:34) zoom in 1 
+\i (00:06:34) setwindow pcb
+\i (00:06:34) zoom in 3474.904 3292.367
+\i (00:06:34) trapsize 11409
+\i (00:06:34) roam y 96 
+\i (00:06:34) roam y 96
+\i (00:06:35) roam y 96 
+\i (00:06:35) roam y 96
+\i (00:06:35) zoom out 1 
+\i (00:06:35) setwindow pcb
+\i (00:06:35) zoom out 3474.904 2856.558
+\i (00:06:35) trapsize 22817
+\i (00:06:35) roam x -96 
+\i (00:06:35) roam x -96
+\i (00:06:35) roam y -96 
+\i (00:06:35) roam y -96
+\i (00:06:36) zoom in 1 
+\i (00:06:36) setwindow pcb
+\i (00:06:36) zoom in 3287.803 3178.281
+\i (00:06:36) trapsize 11409
+\i (00:06:36) roam y 96 
+\i (00:06:36) roam y 96
+\i (00:06:37) roam y -96 
+\i (00:06:37) roam y -96
+\i (00:06:39) move 
+\t (00:06:39) Select element(s) to move.
+\i (00:06:40) pick grid 3636.906 3173.717
+\t (00:06:40) last pick:  3637.000 3174.000
+\t (00:06:40) last pick:  2969.000 3240.000
+\t (00:06:40) Moving U3 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:06:40) Pick new location for the element(s).
+\i (00:06:40) oops 
+\t (00:06:40) last pick:  3637.000 3174.000
+\i (00:06:41) roam y -96 
+\i (00:06:41) roam y -96
+\i (00:06:41) zoom out 1 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom out 3534.229 3650.596
+\i (00:06:41) trapsize 22817
+\i (00:06:41) zoom out 1 
+\i (00:06:41) setwindow pcb
+\i (00:06:41) zoom out 3534.229 3650.596
+\i (00:06:41) trapsize 45634
+\i (00:06:41) roam y -96 
+\i (00:06:41) roam y -96
+\i (00:06:41) roam y -96 
+\i (00:06:41) roam y -96
+\i (00:06:42) roam y -96 
+\i (00:06:42) roam y -96
+\i (00:06:42) roam y -96 
+\i (00:06:42) roam y -96
+\i (00:06:42) zoom in 1 
+\i (00:06:42) setwindow pcb
+\i (00:06:42) zoom in 3411.016 7399.457
+\i (00:06:42) trapsize 22817
+\i (00:06:43) pick grid 3643.751 7253.427
+\t (00:06:43) last pick:  3644.000 7253.000
+\t (00:06:43) last pick:  3015.000 7269.000
+\t (00:06:43) Moving U10 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:06:43) Pick new location for the element(s).
+\i (00:06:43) pick grid 3050.505 7344.696
+\t (00:06:43) last pick:  3051.000 7345.000
+\i (00:06:58) zoom out 1 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) zoom out 3835.415 7153.032
+\i (00:06:58) trapsize 45634
+\i (00:06:58) zoom out 1 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) zoom out 4259.814 7153.032
+\i (00:06:58) trapsize 91269
+\i (00:06:58) roam x -96 
+\i (00:06:58) roam y 96 
+\i (00:06:58) roam y 96
+\i (00:07:04) xNet N16630046 
+\t (00:07:04) Nets are not selectable at this time.
+\i (00:07:04) xNet Gnd 
+\t (00:07:04) Nets are not selectable at this time.
+\i (00:07:04) xNet Sk1_Chn_Out63 
+\t (00:07:04) Nets are not selectable at this time.
+\i (00:07:04) xrefdes J20 
+\t (00:07:04) Can not select unplaced component J20.
+\t (00:07:04) Can not select unplaced component J20.
+\i (00:07:04) xrefdes R204 
+\t (00:07:04) Can not select unplaced component R204.
+\t (00:07:04) Can not select unplaced component R204.
+\i (00:07:04) xrefdes R203 
+\t (00:07:04) Can not select unplaced component R203.
+\t (00:07:04) Can not select unplaced component R203.
+\i (00:07:04) xname_flush 
+\i (00:08:31) pick grid 7755.405 3940.374
+\t (00:08:31) last pick:  7755.000 3940.000
+\i (00:08:31) zoom in 1 
+\i (00:08:31) setwindow pcb
+\i (00:08:31) zoom in 1293.583 7645.882
+\i (00:08:31) trapsize 45634
+\i (00:08:31) zoom in 1 
+\i (00:08:31) setwindow pcb
+\i (00:08:31) zoom in 1549.136 7718.897
+\i (00:08:31) trapsize 22817
+\i (00:08:32) roam y 96 
+\i (00:08:32) roam y 96
+\i (00:08:32) zoom out 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom out 4976.274 6956.804
+\i (00:08:32) trapsize 45634
+\i (00:08:32) roam y 96 
+\i (00:08:32) roam y 96
+\i (00:08:32) roam y 96 
+\i (00:08:32) roam y 96
+\i (00:08:34) roam y -96 
+\i (00:08:34) roam y -96
+\i (00:08:37) setwindow form.vf_vis
+\i (00:08:37) FORM vf_vis 8 all_colorvisible NO 
+\i (00:08:38) setwindow pcb
+\i (00:08:38) drag_start grid 3173.717 8458.173
+\i (00:08:40) drag_stop 3137.210 3794.344
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 3137.210 4150.292
+\i (00:08:41) trapsize 22817
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 3137.210 4150.293
+\i (00:08:41) trapsize 11409
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 3137.210 4150.293
+\i (00:08:41) trapsize 5704
+\i (00:08:42) pick grid tgl 3171.436 4230.153
+\t (00:08:42) last pick:  3171.000 4230.000
+\t (00:08:42) Moving U3 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:08:42) Moving D3 / SI_PIN DETECTOR_S5980_S5980 / S5980.
+\t (00:08:42) Moving U10 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:08:42) Pick new location for the element(s).
+\i (00:08:43) oops 
+\t (00:08:43) last pick:  7755.000 3940.000
+\t (00:08:43) Reselect origin.
+\i (00:08:43) zoom out 1 
+\i (00:08:43) setwindow pcb
+\i (00:08:43) zoom out 3165.731 4244.984
+\i (00:08:43) trapsize 11409
+\i (00:08:45) pick grid tgl 3076.745 4254.112
+\t (00:08:45) last pick:  3077.000 4254.000
+\t (00:08:45) Moving U3 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:08:45) Moving D3 / SI_PIN DETECTOR_S5980_S5980 / S5980.
+\t (00:08:45) Moving U10 / SKIROC2_SKIROC2_(S1+S2+S3+S4+S5 / SKIROC2.
+\t (00:08:45) Pick new location for the element(s).
+\i (00:08:46) oops 
+\t (00:08:46) last pick:  7755.000 3940.000
+\t (00:08:46) Reselect origin.
+\i (00:08:46) prepopup 3053.928 4726.427
+\i (00:08:47) cancel 
+\i (00:08:47) placementedit 
+\i (00:08:48) pick grid 2764.150 4762.934
+\t (00:08:48) last pick:  2764.000 4763.000
+\i (00:08:49) done 
+\i (00:08:49) placementedit 
+\i (00:08:49) roam y -96 
+\i (00:08:49) roam y -96
+\i (00:08:50) zoom out 1 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom out 3133.788 4615.762
+\i (00:08:50) trapsize 22817
+\i (00:08:50) zoom out 1 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom out 3133.789 4615.762
+\i (00:08:50) trapsize 45634
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:51) roam y 96 
+\i (00:08:51) roam y 96
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out 3219.352 7399.456
+\i (00:08:51) trapsize 91269
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out 10511.718 7937.942
+\i (00:08:51) trapsize 124378
+\i (00:08:52) zoom in 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom in 2915.423 3064.677
+\i (00:08:52) trapsize 62189
+\i (00:08:54) roam x -96 
+\i (00:08:54) roam y 96 
+\i (00:08:54) roam y 96
+\i (00:08:54) zoom in 1 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom in 2044.776 104.477
+\i (00:08:54) trapsize 31095
+\i (00:08:55) zoom in 1 
+\i (00:08:55) setwindow pcb
+\i (00:08:55) zoom in 1572.139 148.010
+\i (00:08:55) trapsize 15547
+\i (00:08:55) roam x -96 
+\i (00:08:55) roam x -96
+\i (00:08:55) roam x -96 
+\i (00:08:55) roam x -96
+\i (00:08:56) zoom out 1 
+\i (00:08:56) setwindow pcb
+\i (00:08:56) zoom out 1055.969 185.324
+\i (00:08:56) trapsize 31095
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 3232.587 148.010
+\i (00:08:57) trapsize 15547
+\i (00:08:57) zoom in 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 3232.587 148.010
+\i (00:08:57) trapsize 7774
+\i (00:08:57) zoom out 1 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom out 3232.587 148.011
+\i (00:08:57) trapsize 15547
+\i (00:08:59) drag_start grid 2489.428 524.254
+\i (00:08:59) drag_stop 3500.000 138.682
+\i (00:09:00) move 
+\i (00:09:01) pick grid 3111.318 225.747
+\t (00:09:01) last pick:  3111.000 226.000
+\t (00:09:01) Moving J12 / CONN_1_154744-ERNI_CONN / 154744-ERNI.
+\t (00:09:01) Moving J10 / CONN_1_154744-ERNI_CONN / 154744-ERNI.
+\t (00:09:01) Pick new location for the element(s).
+\i (00:09:04) ipick 200 
+\t (00:09:04) last pick:  3311.000 226.000
+\i (00:09:04) placementedit 
+\i (00:09:06) oops 
+\i (00:09:08) undo 
+\i (00:09:08) trapsize 15547
+\i (00:09:08) placementedit 
+\i (00:09:08) zoom out 1 
+\i (00:09:08) setwindow pcb
+\i (00:09:08) zoom out 3120.647 549.130
+\i (00:09:08) trapsize 31095
+\i (00:09:08) roam x -96 
+\i (00:09:08) roam x -96
+\i (00:09:09) roam x -96 
+\i (00:09:09) roam x -96
+\i (00:09:09) zoom in 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom in 2921.643 107.587
+\i (00:09:09) trapsize 15547
+\i (00:09:13) zoom out 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom out 2592.041 110.697
+\i (00:09:13) trapsize 31095
+\i (00:09:13) roam y -96 
+\i (00:09:13) roam y -96
+\i (00:09:13) roam y -96 
+\i (00:09:13) roam y -96
+\i (00:09:14) roam y -96 
+\i (00:09:14) roam y -96
+\i (00:09:14) roam x 96 
+\i (00:09:14) roam x 96
+\i (00:09:15) roam y 96 
+\i (00:09:15) roam y 96
+\i (00:09:15) roam y 96 
+\i (00:09:15) roam y 96
+\i (00:09:15) roam y 96 
+\i (00:09:15) roam y 96
+\i (00:09:16) pick grid 3133.086 197.762
+\t (00:09:16) last pick:  3133.000 198.000
+\i (00:09:16) move 
+\t (00:09:16) last pick:  5140.000 270.000
+\t (00:09:16) Moving J10 / CONN_1_154744-ERNI_CONN / 154744-ERNI.
+\t (00:09:16) Pick new location for the element(s).
+\i (00:09:17) oops 
+\i (00:09:17) placementedit 
+\i (00:09:18) pick grid 2579.603 869.404
+\t (00:09:18) last pick:  2580.000 869.000
+\i (00:09:19) drag_start grid 2461.444 682.836
+\i (00:09:19) drag_stop 3705.225 -13.681
+\i (00:09:19) move 
+\i (00:09:19) pick grid 3157.961 197.762
+\t (00:09:19) last pick:  3158.000 198.000
+\t (00:09:19) Moving J12 / CONN_1_154744-ERNI_CONN / 154744-ERNI.
+\t (00:09:19) Moving J10 / CONN_1_154744-ERNI_CONN / 154744-ERNI.
+\t (00:09:19) Pick new location for the element(s).
+\i (00:09:22) ipick 20 
+\t (00:09:22) last pick:  3178.000 198.000
+\i (00:09:22) placementedit 
+\i (00:09:24) roam x 96 
+\i (00:09:24) roam x 96
+\i (00:09:24) roam x 96 
+\i (00:09:24) roam x 96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) roam y -96 
+\i (00:09:25) roam y -96
+\i (00:09:25) zoom in 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in 3232.588 2337.066
+\i (00:09:25) trapsize 15547
+\i (00:09:25) done 
+\i (00:09:25) placementedit 
+\i (00:09:26) roam y -96 
+\i (00:09:26) roam y -96
+\i (00:09:26) zoom out 1 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) zoom out 3229.479 2610.697
+\i (00:09:26) trapsize 31095
+\i (00:09:48) place manual 
+\i (00:09:52) zoom out 1 
+\i (00:09:52) setwindow pcb
+\i (00:09:52) zoom out 5300.374 2610.697
+\i (00:09:52) trapsize 62189
+\i (00:09:52) zoom out 1 
+\i (00:09:52) setwindow pcb
+\i (00:09:52) zoom out 7853.236 2610.697
+\i (00:09:52) trapsize 124378
+\i (00:09:53) prepopup 11223.880 9159.204
+\i (00:09:55) cancel 
+\i (00:09:55) placementedit 
+\i (00:09:56) done 
+\i (00:09:56) placementedit 
+\i (00:09:58) place manual 
+\i (00:09:59) pick grid 15004.975 9781.094
+\t (00:09:59) last pick:  15005.000 9781.000
+\i (00:09:59) zoom in 1 
+\i (00:09:59) setwindow pcb
+\i (00:09:59) zoom in 2691.542 502.488
+\i (00:09:59) trapsize 62189
+\i (00:09:59) zoom in 1 
+\i (00:09:59) setwindow pcb
+\i (00:09:59) zoom in -654.229 502.488
+\i (00:09:59) trapsize 31095
+\i (00:10:00) zoom in 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom in 2654.229 -100.746
+\i (00:10:00) trapsize 15547
+\i (00:10:00) pick grid 2775.498 748.135
+\t (00:10:00) last pick:  2775.000 748.000
+\i (00:10:01) prepopup 2775.498 748.135
+\i (00:10:01) done 
+\i (00:10:01) placementedit 
+\i (00:10:02) drag_start grid 2623.135 810.324
+\i (00:10:02) drag_stop 2781.717 760.572
+\i (00:10:02) pick grid 2240.672 1211.443
+\t (00:10:02) last pick:  2241.000 1211.000
+\i (00:10:04) place manual 
+\w (00:10:04) Save Pending
+\i (00:10:05) prepopup 2700.871 872.513
+\i (00:10:07) zoom out 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom out 3577.737 1133.707
+\i (00:10:07) trapsize 31095
+\i (00:10:07) zoom out 1 
+\i (00:10:07) setwindow pcb
+\i (00:10:07) zoom out 3577.737 1133.707
+\i (00:10:07) trapsize 62189
+\i (00:10:09) refdes U15 
+\w (00:10:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:10:09) Placing U15 / S8650_S8650_S8650 / S8650 on Top.
+\i (00:10:09) xname_flush 
+\i (00:10:13) prepopup 10253.732 2604.478
+\i (00:10:13) cancel 
+\t (00:10:13) Performing autosave...
+\t (00:10:13) Autosave successful
+\i (00:10:13) placementedit 
+\i (00:10:14) zoom out 1 
+\i (00:10:14) setwindow pcb
+\i (00:10:14) zoom out 6509.950 3164.179
+\i (00:10:14) trapsize 124378
+\i (00:10:14) roam y -96 
+\i (00:10:14) roam y -96 
+\i (00:10:19) pick grid 15378.109 3860.696
+\t (00:10:19) last pick:  15378.000 3861.000
+\i (00:10:22) quickplace 
+\i (00:10:23) setwindow form.quickplc
+\i (00:10:23) FORM quickplc cancel  
+\i (00:10:23) setwindow pcb
+\i (00:10:23) placementedit 
+\i (00:10:24) place manual 
+\i (00:10:25) prepopup 10676.617 10104.477
+\i (00:10:26) cancel 
+\i (00:10:26) placementedit 
+\i (00:10:27) exit 
+\e (00:10:27) Do you want to save the changes you made to FEB_DET_1V0.brd?
+\i (00:10:27) fillin yes 
+\t (00:10:28)     Journal end - Mon Aug 14 09:48:14 2017
