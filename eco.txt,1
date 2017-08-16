@@ -3,64 +3,104 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
-|                                                    Mon Aug 14 10:06:05 2017  |
+|                                                    Wed Aug 16 16:06:02 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- SMA_0_CON-BNC-S-T_SMA_PLATED
- SMA_0_SMA_PLATED_SMA_PLATED
+  SK1_CHN_OUT36 net RENAMED (to net name listed on right)           SK1_INPUT37  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT37 net RENAMED (to net name listed on right)           SK1_INPUT38  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT38 net RENAMED (to net name listed on right)           SK1_INPUT39  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT39 net RENAMED (to net name listed on right)           SK1_INPUT40  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT40 net RENAMED (to net name listed on right)           SK1_INPUT41  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT41 net RENAMED (to net name listed on right)           SK1_INPUT42  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT42 net RENAMED (to net name listed on right)           SK1_INPUT43  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT43 net RENAMED (to net name listed on right)           SK1_INPUT44  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT44 net RENAMED (to net name listed on right)           SK1_INPUT45  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT45 net RENAMED (to net name listed on right)           SK1_INPUT46  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT46 net RENAMED (to net name listed on right)           SK1_INPUT47  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT47 net RENAMED (to net name listed on right)           SK1_INPUT48  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT48 net RENAMED (to net name listed on right)           SK1_INPUT49  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT49 net RENAMED (to net name listed on right)           SK1_INPUT50  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT50 net RENAMED (to net name listed on right)           SK1_INPUT51  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT51 net RENAMED (to net name listed on right)           SK1_INPUT52  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT52 net RENAMED (to net name listed on right)           SK1_INPUT53  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT53 net RENAMED (to net name listed on right)           SK1_INPUT54  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT54 net RENAMED (to net name listed on right)           SK1_INPUT55  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT55 net RENAMED (to net name listed on right)           SK1_INPUT56  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT56 net RENAMED (to net name listed on right)           SK1_INPUT57  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT57 net RENAMED (to net name listed on right)           SK1_INPUT58  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT58 net RENAMED (to net name listed on right)           SK1_INPUT59  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
-|                                                    Mon Aug 14 10:06:05 2017  |
+|                                                    Wed Aug 16 16:06:02 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J2                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J3                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J4                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J5                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J6                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
- J7                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
- J8                  SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
- J9                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_SMA_PLATED_SMA
- J13                 SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
- J20                 SMA_0_CON-BNC-S-T_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA
- J21                 SMA_0_CON-BNC-S-T_SMA_PLATED 5509.00 7552.00 SMA_0_CON-BNC-S-T_SMA
+  SK1_CHN_OUT59 net RENAMED (to net name listed on right)           SK1_INPUT60  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT60 net RENAMED (to net name listed on right)           SK1_INPUT61  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT61 net RENAMED (to net name listed on right)           SK1_INPUT62  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_CHN_OUT62 net RENAMED (to net name listed on right)           SK1_INPUT63  
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT_CHN63 pins MOVED FROM this net (to net name listed on right)
+                                 R25.2                          
+                                                                SK1_INPUT_CHN64
+                                 U3.65           2467.03 2584.48
+                                                                       N5077491
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT_CHN64 pins ADDED TO this new net
+                                 U3.66           2486.71 2584.48
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
-|                                                    Mon Aug 14 10:06:05 2017  |
+|                                                    Wed Aug 16 16:06:02 2017  |
 |------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J1.5                           PRIM_FILE      .\pstchip.dat
- J2.5                           PRIM_FILE      .\pstchip.dat
- J3.5                           PRIM_FILE      .\pstchip.dat
- J4.5                           PRIM_FILE      .\pstchip.dat
- J5.5                           PRIM_FILE      .\pstchip.dat
- J6.5                           PRIM_FILE      .\pstchip.dat
- J7.5                           PRIM_FILE      .\pstchip.dat
- J8.5                           PRIM_FILE      .\pstchip.dat
- J9.5                           PRIM_FILE      .\pstchip.dat
- J13.5                          PRIM_FILE      .\pstchip.dat
- J20.5                          PRIM_FILE      .\pstchip.dat
- J21.5          5509.00 7552.00 PRIM_FILE      .\pstchip.dat
+ J20                 SMA_0_SMA_PLATED_SMA_PLATED                
+ J21                 SMA_0_SMA_PLATED_SMA_PLATED                
+ R203                R_SR0603_TEST                        
+ R204                R_SR0603_TEST                        
+ R205                R_SR0603_TEST                        
+ R206                R_SR0603_TEST                        
 |------------------------------------------------------------------------------|
-|       Comp definitions added:       2                                        |
-|       Components changed    :      12                                        |
-|       Slot property added   :      12                                        |
+|       Nets changed          :      30                                        |
+|       Components deleted    :       6                                        |
 |                                                                              |
-|   Total ECO changes reported:      26                                        |
+|   Total ECO changes reported:      36                                        |
 |------------------------------------------------------------------------------|

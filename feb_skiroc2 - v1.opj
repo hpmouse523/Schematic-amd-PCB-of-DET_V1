@@ -1,0 +1,56 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\feb_skiroc2 - v1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "0"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "TOP")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "ADC")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "ASIC1")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "ASIC2")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Cali")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Detector")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Interface")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Power")
+      (Path "Outputs")
+      (Select "Design Resources" ".\feb_skiroc2 - v1.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 343"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 175 1840 175 556")
+        (Scroll "1134 1992")
+        (Zoom "276")
+        (Occurrence "/SKIROC1"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
+      (Schematic "ASIC1")
+      (Page "SKIROC1")))
+  (ISPCBBASICLICENSE "false")
+  (MPSSessionName "Msy"))

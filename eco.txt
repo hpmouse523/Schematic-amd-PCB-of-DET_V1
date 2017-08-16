@@ -3,38 +3,116 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
-|                                                    Mon Aug 14 10:11:01 2017  |
+|                                                    Wed Aug 16 16:13:05 2017  |
 |------------------------------------------------------------------------------|
-| COMPONENTS CHANGED from one device type to another in design                 |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J6                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
- J7                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
- J8                  SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
- J13                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
- J20                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
- J21                 SMA_0_SMA_PLATED_SMA_PLATED                 SMA_0_CON-BNC-S-T_SMA_PLATED
+  N5077491     pins MOVED FROM this net (to net name listed on right)
+                                 U3.65           2467.03 2584.48
+                                                                    SK1_INPUT63
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT37  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.36           2313.48 3131.73
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT38  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.37           2313.48 3112.04
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT39  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.38           2313.48 3092.36
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT40  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.39           2313.48 3072.67
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT41  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.40           2313.48 3052.99
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT42  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.41           2313.48 3033.30
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT43  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.42           2313.48 3013.62
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT44  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.43           2313.48 2993.93
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT45  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.44           2313.48 2974.25
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT46  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.45           2313.48 2954.56
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT47  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.46           2313.48 2934.88
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT48  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.47           2313.48 2915.19
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT49  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.48           2313.48 2895.51
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT50  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.49           2313.48 2875.82
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
-|                                                    Mon Aug 14 10:11:01 2017  |
+|                                                    Wed Aug 16 16:13:05 2017  |
 |------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- J6.5                           PRIM_FILE      .\pstchip.dat
- J7.5                           PRIM_FILE      .\pstchip.dat
- J8.5                           PRIM_FILE      .\pstchip.dat
- J13.5                          PRIM_FILE      .\pstchip.dat
- J20.5                          PRIM_FILE      .\pstchip.dat
- J21.5                          PRIM_FILE      .\pstchip.dat
+  SK1_INPUT51  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.50           2313.48 2856.14
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT52  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.51           2313.48 2836.45
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT53  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.52           2313.48 2816.77
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT54  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.53           2313.48 2797.08
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT55  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.54           2313.48 2777.40
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT56  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.55           2313.48 2757.71
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT57  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.56           2313.48 2738.03
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT58  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.57           2313.48 2718.34
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT59  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.61           2388.29 2584.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT60  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.62           2407.97 2584.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT61  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.63           2427.66 2584.48
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SK1_INPUT62  pins ADDED TO this existing net (pins not previously on any net)
+                                 U3.64           2447.34 2584.48
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|       Components changed    :       6                                        |
-|       Slot property added   :       6                                        |
+|  E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd               |
+|                                                    Wed Aug 16 16:13:05 2017  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      27                                        |
 |                                                                              |
-|   Total ECO changes reported:      12                                        |
+|   Total ECO changes reported:      27                                        |
 |------------------------------------------------------------------------------|

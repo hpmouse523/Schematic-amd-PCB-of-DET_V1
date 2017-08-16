@@ -101,29 +101,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1665 50 534")
-        (Scroll "0 116")
-        (Zoom "138")
-        (Occurrence "/DET"))
-      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
-      (Schematic "Detector")
-      (Page "S8650"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 150 1765 150 634")
-        (Scroll "3104 1320")
-        (Zoom "400")
-        (Occurrence "/"))
-      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
-      (Schematic "TOP")
-      (Page "TopLevel"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
         (Placement "44 0 1 -1 -1 -8 -30 175 1790 175 659")
-        (Scroll "8156 2268")
-        (Zoom "552")
+        (Scroll "778 1524")
+        (Zoom "212")
         (Occurrence "/SKIROC1"))
       (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
       (Schematic "ASIC1")
@@ -131,9 +111,29 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 200 1815 200 684")
-        (Scroll "2996 702")
-        (Zoom "268")
+        (Placement "44 0 1 -1 -1 -8 -30 225 1840 225 709")
+        (Scroll "508 1992")
+        (Zoom "276")
+        (Occurrence "/Interface"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
+      (Schematic "Interface")
+      (Page "Inter_to_DIF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1740 125 609")
+        (Scroll "1616 1861")
+        (Zoom "272")
+        (Occurrence "/"))
+      (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
+      (Schematic "TOP")
+      (Page "TopLevel"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1765 150 634")
+        (Scroll "0 506")
+        (Zoom "104")
         (Occurrence "/SKIROC_2"))
       (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
       (Schematic "ASIC2")
@@ -141,13 +141,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 225 1840 225 709")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/DET"))
+        (Placement "44 0 1 -1 -1 -8 -30 100 1765 100 481")
+        (Scroll "0 80")
+        (Zoom "200")
+        (Occurrence "/Power"))
       (Path "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2.DSN")
-      (Schematic "Detector")
-      (Page "S5980")))
+      (Schematic "Power")
+      (Page "Power_ASIC")))
   (PartMRUSelector
     (SKIROC2
       (FullPartName "SKIROC2-6.Normal")
