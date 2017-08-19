@@ -1,4 +1,4 @@
-{ Using PSTWRITER 16.6.0 d001Aug-16-2017 at 16:12:54 }
+{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 16:13:43 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.98" ignored for U3: ASIC1, SKIROC1 (6.40, 5.20). Connecting pin to net "N16613215".
 #2 WARNING(ORCAP-36006): Part Name "C_SC0603_0.1U " is renamed to "C_SC0603_0.1U".
@@ -9,59 +9,57 @@
 #7 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package CONN_1 , J10: Interface, Inter_to_DIF (5.70, 4.60).
 #8 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#6" as visible power pin of same name already exists in Package CONN_1 , J10: Interface, Inter_to_DIF (5.70, 4.60).
 #9 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_END_READOUT2" is renamed to "T POINT A_GND40_SK1_END_READOUT".
-#10 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_TRANSMITON_1B" is renamed to "T POINT A_GND40_SK1_TRANSMITON_".
-#11 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_START_READOUT1" is renamed to "T POINT A_GND40_SK1_START_READO".
-#12 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_START_READOUT2" is renamed to "T POINT A_GND40_SK1_START_REA_1".
-#13 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_END_READOUT2" is renamed to "T POINT A_GND40_SK2_END_READOUT".
-#14 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_END_READOUT1" is renamed to "T POINT A_GND40_SK2_END_READO_1".
-#15 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_TRANSMITON_1B" is renamed to "T POINT A_GND40_SK2_TRANSMITON_".
-#16 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_END_READOUT1" is renamed to "T POINT A_GND40_SK1_END_READO_1".
-#17 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_START_READOUT1" is renamed to "T POINT A_GND40_SK2_START_READO".
-#18 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_START_READOUT2" is renamed to "T POINT A_GND40_SK2_START_REA_1".
-#19 WARNING(ORCAP-36006): Part Name "SKIROC2_SKIROC2_(S1+S2+S3+S4+S5+S6)_SKIROC2" is renamed to "SKIROC2_SKIROC2_(S1+S2+S3+S4+S5".
-#20 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#2" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#21 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#31" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#22 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#59" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#23 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#68" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#24 WARNING(ORCAP-36042): Pin "GND_PA" is renamed to "GND_PA#71" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#25 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#99" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#26 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#100" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#27 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#113" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#28 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#122" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#29 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#123" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#30 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#127" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#31 WARNING(ORCAP-36042): Pin "RTN" is renamed to "RTN#131" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#32 WARNING(ORCAP-36042): Pin "RTN" is renamed to "RTN#137" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#33 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#174" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#34 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#178" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#35 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#186" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#36 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#201" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#37 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#202" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#38 WARNING(ORCAP-36042): Pin "GND_PA" is renamed to "GND_PA#231" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#39 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#233" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#40 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#1" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#41 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#3" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#42 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#30" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#43 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#58" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#44 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#60" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#45 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#67" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#46 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#126" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#47 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#128" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#48 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#153" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#49 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#234" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
-#50 WARNING(ORCAP-36006): Part Name "ADG741_3_SOT65P210X110-5N_ADG741" is renamed to "ADG741_3_SOT65P210X110-5N_ADG74".
-#51 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#1" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#52 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#15" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#54 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#16" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#55 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#17" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#56 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#18" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#57 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#19" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#58 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#20" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
-#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
-#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
-#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
-#62 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
+#10 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_START_READOUT1" is renamed to "T POINT A_GND40_SK1_START_READO".
+#11 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_START_READOUT2" is renamed to "T POINT A_GND40_SK1_START_REA_1".
+#12 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_END_READOUT2" is renamed to "T POINT A_GND40_SK2_END_READOUT".
+#13 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_END_READOUT1" is renamed to "T POINT A_GND40_SK2_END_READO_1".
+#14 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK1_END_READOUT1" is renamed to "T POINT A_GND40_SK1_END_READO_1".
+#15 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_START_READOUT1" is renamed to "T POINT A_GND40_SK2_START_READO".
+#16 WARNING(ORCAP-36006): Part Name "T POINT A_GND40_SK2_START_READOUT2" is renamed to "T POINT A_GND40_SK2_START_REA_1".
+#17 WARNING(ORCAP-36006): Part Name "SKIROC2_SKIROC2_(S1+S2+S3+S4+S5+S6)_SKIROC2" is renamed to "SKIROC2_SKIROC2_(S1+S2+S3+S4+S5".
+#18 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#2" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#19 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#31" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#20 WARNING(ORCAP-36042): Pin "VSSI" is renamed to "VSSI#59" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#21 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#68" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#22 WARNING(ORCAP-36042): Pin "GND_PA" is renamed to "GND_PA#71" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#23 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#99" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#24 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#100" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#25 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#113" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#26 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#122" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#27 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#123" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#28 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#127" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#29 WARNING(ORCAP-36042): Pin "RTN" is renamed to "RTN#131" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#30 WARNING(ORCAP-36042): Pin "RTN" is renamed to "RTN#137" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#31 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#174" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#32 WARNING(ORCAP-36042): Pin "VSSD" is renamed to "VSSD#178" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#33 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#186" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#34 WARNING(ORCAP-36042): Pin "VSSM" is renamed to "VSSM#201" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#35 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#202" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#36 WARNING(ORCAP-36042): Pin "GND_PA" is renamed to "GND_PA#231" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#37 WARNING(ORCAP-36042): Pin "VSSA" is renamed to "VSSA#233" as visible power pin of same name already exists in Package SKIROC2-1 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#38 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#1" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#39 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#3" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#40 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#30" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#41 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#58" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#42 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#60" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#43 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#67" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#44 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#126" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#45 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#128" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#46 WARNING(ORCAP-36042): Pin "VDDD" is renamed to "VDDD#153" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#47 WARNING(ORCAP-36042): Pin "VDDA_PA" is renamed to "VDDA_PA#234" as visible power pin of same name already exists in Package SKIROC2-6 , U10-1: ASIC2, SKIROC2 (6.40, 5.00).
+#48 WARNING(ORCAP-36006): Part Name "ADG741_3_SOT65P210X110-5N_ADG741" is renamed to "ADG741_3_SOT65P210X110-5N_ADG74".
+#49 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#1" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#50 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#15" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#52 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#16" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#53 WARNING(ORCAP-36042): Pin "IN" is renamed to "IN#17" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#54 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#18" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#55 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#19" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#56 WARNING(ORCAP-36042): Pin "OUT" is renamed to "OUT#20" as visible power pin of same name already exists in Package TPS7A85 , U51: Power, Power_ASIC (4.10, 0.80).
+#57 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#2" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
+#59 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#8" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#15" as visible power pin of same name already exists in Package C11204-01 , U55: Power, Power_Detector (2.30, 1.40).
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\allegro/pstchip.dat

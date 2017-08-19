@@ -1,0 +1,93 @@
+Date and Time : 08/18/17 14:51:48
+
+--------------------------------------------------
+Checking Schematic: TOP
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict SKIROC1,SK1_Ck_5N  Bidirectional Connected to Output
+                    TOP, TopLevel  (10.20, 7.00) 
+WARNING(ORCAP-1829): Possible pin type conflict Interface,SK_Ck_5N  Output Connected to Bidirectional
+                    TOP, TopLevel  (14.10, 7.00) 
+WARNING(ORCAP-1829): Possible pin type conflict Interface,SK_Start_Readout1  Output Connected to Bidirectional
+                    TOP, TopLevel  (12.50, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict SKIROC1,SK1_Start_Readout1  Bidirectional Connected to Output
+                    TOP, TopLevel  (12.00, 6.00) 
+WARNING(ORCAP-1829): Possible pin type conflict Interface,SK_Ck_5P  Output Connected to Bidirectional
+                    TOP, TopLevel  (14.20, 7.00) 
+WARNING(ORCAP-1829): Possible pin type conflict SKIROC1,SK1_Ck_5P  Bidirectional Connected to Output
+                    TOP, TopLevel  (10.10, 7.00) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: ASIC1
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N16613215 
+                    ASIC1, SKIROC1  (6.10, 6.10) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: ASIC2
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N16619969 
+                    ASIC2, SKIROC2  (6.10, 5.90) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Cali
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Detector
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+WARNING(ORCAP-1600): Net has fewer than two connections N16624092 
+                    Detector, S5980  (3.60, 0.70) 
+WARNING(ORCAP-1600): Net has fewer than two connections SK1_Chn_Out63 
+                    Detector, S5980  (15.70, 5.90) 
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: ADC
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Interface
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets
+
+--------------------------------------------------
+Checking Schematic: Power
+--------------------------------------------------
+Checking Electrical Rules 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

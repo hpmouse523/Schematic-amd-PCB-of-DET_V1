@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-16-2017 at 16:12:57}
+{ Using PSTWRITER 16.6.0 d001Aug-18-2017 at 16:13:45}
 primitive 'CAP NP_SC0603_0.1UF';
   pin
     '1':
@@ -45,7 +45,7 @@ primitive 'C_SC0603_0.1U';
     VALUE='0.1u';
   end_body;
 end_primitive;
-primitive 'CAPACITOR NON-POL_SC0603_33P';
+primitive 'CAPACITOR NON-POL_SC0603_1UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -57,7 +57,7 @@ primitive 'CAPACITOR NON-POL_SC0603_33P';
   body
     PART_NAME='CAPACITOR NON-POL';
     JEDEC_TYPE='SC0603';
-    VALUE='33p';
+    VALUE='1uf';
   end_body;
 end_primitive;
 primitive 'C_SC0603_1PF';
@@ -87,7 +87,7 @@ primitive 'CAPACITOR NON-POL_SC0603_1NF';
   body
     PART_NAME='CAPACITOR NON-POL';
     JEDEC_TYPE='SC0603';
-    VALUE='1nF';
+    VALUE='1nf';
   end_body;
 end_primitive;
 primitive 'CAP NP_SC0603_1UF';
@@ -135,7 +135,7 @@ primitive 'CAPACITOR NON-POL_SC0603_10N';
     VALUE='10n';
   end_body;
 end_primitive;
-primitive 'CAP NP_SC0603_47UF';
+primitive 'CAP NP_CT1206_47UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -146,7 +146,7 @@ primitive 'CAP NP_SC0603_47UF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='SC0603';
+    JEDEC_TYPE='CT1206';
     VALUE='47uF';
   end_body;
 end_primitive;
@@ -180,7 +180,7 @@ primitive 'CAP_SC0603_10UF';
     VALUE='10uF';
   end_body;
 end_primitive;
-primitive 'CAP_SC0603_100UF';
+primitive 'CAP_STC7343_100UF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -191,7 +191,7 @@ primitive 'CAP_SC0603_100UF';
   end_pin;
   body
     PART_NAME='CAP';
-    JEDEC_TYPE='SC0603';
+    JEDEC_TYPE='STC7343';
     VALUE='100uF';
   end_body;
 end_primitive;
@@ -915,18 +915,6 @@ primitive 'T POINT A_GND40_SK1_END_READOUT';
     VALUE='SK1_End_Readout2';
   end_body;
 end_primitive;
-primitive 'T POINT A_GND40_SK1_TRANSMITON_';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK1_Transmiton_1b';
-  end_body;
-end_primitive;
 primitive 'T POINT A_GND40_SK1_SRIN_READ';
   pin
     'TP':
@@ -985,30 +973,6 @@ primitive 'T POINT A_GND40_SK1_START_CONVB';
     PART_NAME='T POINT A';
     JEDEC_TYPE='GND40';
     VALUE='SK1_Start_Convb';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK1_SR_OUT';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK1_Sr_Out';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK1_CHIPSATB';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK1_Chipsatb';
   end_body;
 end_primitive;
 primitive 'T POINT A_GND40_SK2_END_READOUT';
@@ -1071,18 +1035,6 @@ primitive 'T POINT A_GND40_SK2_VTH0';
     VALUE='SK2_VTH0';
   end_body;
 end_primitive;
-primitive 'T POINT A_GND40_SK2_SR_OUT';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK2_Sr_Out';
-  end_body;
-end_primitive;
 primitive 'T POINT A_GND40_SK2_VTH1';
   pin
     'TP':
@@ -1107,18 +1059,6 @@ primitive 'T POINT A_GND40_SK2_SROUT_READ';
     VALUE='SK2_Srout_Read';
   end_body;
 end_primitive;
-primitive 'T POINT A_GND40_SK2_DOUT1B';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK2_Dout1b';
-  end_body;
-end_primitive;
 primitive 'T POINT A_GND40_SK2_SR_IN';
   pin
     'TP':
@@ -1129,18 +1069,6 @@ primitive 'T POINT A_GND40_SK2_SR_IN';
     PART_NAME='T POINT A';
     JEDEC_TYPE='GND40';
     VALUE='SK2_Sr_In';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK2_TRANSMITON_';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK2_Transmiton_1b';
   end_body;
 end_primitive;
 primitive 'T POINT A_GND40_SK2_SRIN_READ';
@@ -1165,18 +1093,6 @@ primitive 'T POINT A_GND40_SK1_END_READO_1';
     PART_NAME='T POINT A';
     JEDEC_TYPE='GND40';
     VALUE='SK1_End_Readout1';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK2_CHIPSATB';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK2_Chipsatb';
   end_body;
 end_primitive;
 primitive 'T POINT A_GND40_SK2_START_READO';
@@ -1227,6 +1143,18 @@ primitive 'T POINT A_GND40_SK2_START_CONVB';
     VALUE='SK2_Start_Convb';
   end_body;
 end_primitive;
+primitive 'T POINT A_GND40_SK2_SR_OUT';
+  pin
+    'TP':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='T POINT A';
+    JEDEC_TYPE='GND40';
+    VALUE='SK2_Sr_Out';
+  end_body;
+end_primitive;
 primitive 'TEST POINT_TP-40-SMD_TEST POINT';
   pin
     '1':
@@ -1263,6 +1191,18 @@ primitive 'T POINT A_GND40_SK1_VTH0';
     VALUE='SK1_VTH0';
   end_body;
 end_primitive;
+primitive 'T POINT A_GND40_SK1_SR_OUT';
+  pin
+    'TP':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='T POINT A';
+    JEDEC_TYPE='GND40';
+    VALUE='SK1_Sr_Out';
+  end_body;
+end_primitive;
 primitive 'T POINT A_GND40_SK1_VTH1';
   pin
     'TP':
@@ -1285,18 +1225,6 @@ primitive 'T POINT A_GND40_SK1_SROUT_READ';
     PART_NAME='T POINT A';
     JEDEC_TYPE='GND40';
     VALUE='SK1_Srout_Read';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK1_DOUT_1B';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK1_Dout_1b';
   end_body;
 end_primitive;
 primitive 'T POINT A_GND40_SK1_SR_IN';
