@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 16.6.0 d001Aug-16-2017 at 20:04:18 }
+{ Using PSTWRITER 16.6.0 d001Aug-20-2017 at 18:59:09 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='FEB_SKIROC2 - V1';
@@ -1058,7 +1058,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C194 'CAP NP_SC0603_47UF':;
+ C194 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16778598@DISCRETE.CAP NP.NORMAL(CHIPS)':
@@ -1068,7 +1068,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C195 'CAP NP_SC0603_47UF':;
+ C195 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16778661@DISCRETE.CAP NP.NORMAL(CHIPS)':
@@ -1098,22 +1098,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C198 'CAP NP_SC0603_47UF':;
+ C198 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16782876@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16782876@discrete.\cap np.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16782876@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C199 'CAP NP_SC0603_47UF':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16782942@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16782942@discrete.\cap np.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16782942@discrete.\cap np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -1188,7 +1178,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C205 'CAP_SC0603_100UF':;
+ C205 'CAP_STC7343_100UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16779197@DISCRETE.CAP.NORMAL(CHIPS)':
@@ -1268,7 +1258,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C212 'CAP NP_SC0603_47UF':;
+ C212 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16780027@DISCRETE.CAP NP.NORMAL(CHIPS)':
@@ -1278,7 +1268,7 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C213 'CAP NP_SC0603_47UF':;
+ C213 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16780093@DISCRETE.CAP NP.NORMAL(CHIPS)':
@@ -1288,22 +1278,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- C214 'CAP NP_SC0603_47UF':;
+ C214 'CAP NP_CT1206_47UF':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16780642@DISCRETE.CAP NP.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16780642@discrete.\cap np.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16780642@discrete.\cap np.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- C215 'CAP NP_SC0603_47UF':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16780708@DISCRETE.CAP NP.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16780708@discrete.\cap np.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16780708@discrete.\cap np.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -4078,6 +4058,36 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
+ R205 'RESISTOR_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16793369@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16793369@my_sch_library.\resistor.normal\(chips)',
+ P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16793369@my_sch_library.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R206 'RESISTOR_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16793382@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16793382@my_sch_library.\resistor.normal\(chips)',
+ P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16793382@my_sch_library.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R207 'RESISTOR_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@FEB_SKIROC2 - V1.TOP(SCH_1):POWER@FEB_SKIROC2 - V1.POWER(SCH_1):INS16793395@MY_SCH_LIBRARY.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\feb_skiroc2 - v1\.top(sch_1):power@\feb_skiroc2 - v1\.power(sch_1):ins16793395@my_sch_library.\resistor.normal\(chips)',
+ P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_power@\feb_skiroc2 - v1\.power(sch_1):page1_ins16793395@my_sch_library.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
  R21 'R_SR0603_TEST':;
 
 SECTION_NUMBER 1
@@ -4948,16 +4958,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP10 'T POINT A_GND40_SK1_TRANSMITON_':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5081643@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5081643@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5081643@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP11 'T POINT A_GND40_SK1_SRIN_READ':;
 
 SECTION_NUMBER 1
@@ -5004,36 +5004,6 @@ SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5081842@DISCRETE.T POINT A.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5081842@discrete.\t point a.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5081842@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP16 'T POINT A_GND40_SK1_START_READO':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5081862@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5081862@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5081862@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP17 'T POINT A_GND40_SK1_SR_OUT':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5082342@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5082342@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5082342@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP18 'T POINT A_GND40_SK1_CHIPSATB':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5081684@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5081684@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5081684@discrete.\t point a.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5088,16 +5058,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP23 'T POINT A_GND40_SK2_SR_OUT':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC_2@FEB_SKIROC2 - V1.ASIC2(SCH_1):INS16590781@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):ins16590781@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):page1_ins16590781@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP24 'T POINT A_GND40_SK2_VTH1':;
 
 SECTION_NUMBER 1
@@ -5118,32 +5078,12 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- TP26 'T POINT A_GND40_SK2_DOUT1B':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC_2@FEB_SKIROC2 - V1.ASIC2(SCH_1):INS16581488@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):ins16581488@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):page1_ins16581488@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  TP27 'T POINT A_GND40_SK2_SR_IN':;
 
 SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC_2@FEB_SKIROC2 - V1.ASIC2(SCH_1):INS16590821@DISCRETE.T POINT A.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):ins16590821@discrete.\t point a.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):page1_ins16590821@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP28 'T POINT A_GND40_SK2_TRANSMITON_':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC_2@FEB_SKIROC2 - V1.ASIC2(SCH_1):INS16581508@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):ins16581508@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):page1_ins16581508@discrete.\t point a.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5164,16 +5104,6 @@ SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS16590417@DISCRETE.T POINT A.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins16590417@discrete.\t point a.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins16590417@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP30 'T POINT A_GND40_SK2_CHIPSATB':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC_2@FEB_SKIROC2 - V1.ASIC2(SCH_1):INS16581528@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):ins16581528@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc_2@\feb_skiroc2 - v1\.asic2(sch_1):page1_ins16581528@discrete.\t point a.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -5294,16 +5224,6 @@ SECTION_NUMBER 1
  '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS16590500@DISCRETE.T POINT A.NORMAL(CHIPS)':
  C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins16590500@discrete.\t point a.normal\(chips)',
  P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins16590500@discrete.\t point a.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
- TP8 'T POINT A_GND40_SK1_DOUT_1B':;
-
-SECTION_NUMBER 1
- '@FEB_SKIROC2 - V1.TOP(SCH_1):SKIROC1@FEB_SKIROC2 - V1.ASIC1(SCH_1):INS5081603@DISCRETE.T POINT A.NORMAL(CHIPS)':
- C_PATH='@\feb_skiroc2 - v1\.top(sch_1):skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):ins5081603@discrete.\t point a.normal\(chips)',
- P_PATH='@\feb_skiroc2 - v1\.top(sch_1):page1_skiroc1@\feb_skiroc2 - v1\.asic1(sch_1):page3_ins5081603@discrete.\t point a.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
