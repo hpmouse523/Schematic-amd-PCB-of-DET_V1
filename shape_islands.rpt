@@ -1,0 +1,21 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : FEB_DET_1V0.brd                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Aug 23 21:42:17 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 2
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (492.002 890.002)  Net: GND
+
+    Layer = SIG6
+	Point on shape: (2964.000 6422.406)  Net: 3.3V_PA

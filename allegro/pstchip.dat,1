@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Aug-20-2017 at 18:59:09}
+{ Using PSTWRITER 16.6.0 d001Aug-22-2017 at 17:14:46}
 primitive 'CAP NP_SC0603_0.1UF';
   pin
     '1':
@@ -985,18 +985,6 @@ primitive 'T POINT A_GND40_SK2_END_READOUT';
     PART_NAME='T POINT A';
     JEDEC_TYPE='GND40';
     VALUE='SK2_End_Readout2';
-  end_body;
-end_primitive;
-primitive 'T POINT A_GND40_SK1_V_BG';
-  pin
-    'TP':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='T POINT A';
-    JEDEC_TYPE='GND40';
-    VALUE='SK1_V_BG';
   end_body;
 end_primitive;
 primitive 'T POINT A_GND40_SK2_V_BG';

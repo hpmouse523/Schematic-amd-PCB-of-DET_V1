@@ -1,0 +1,19 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : FEB_DET_1V0.brd                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Aug 23 14:44:55 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 1 out of 69
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (5366.000 4117.000)  Net: +5V

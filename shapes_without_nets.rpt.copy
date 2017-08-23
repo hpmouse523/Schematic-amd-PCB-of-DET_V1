@@ -1,0 +1,23 @@
+<HTML><HEAD><STYLE TYPE="text/css">.errorMessage { color:darkred; font-weight:bold; font-style:italic; text-decoration:underline; }</STYLE></HEAD><BODY><PRE>
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : FEB_DET_1V0.brd                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Aug 23 14:38:41 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: <a href="xprobe:xy:3559.000 3099.000">(3559.000 3099.000)</a>  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.
+</PRE>
+</BODY></HTML>

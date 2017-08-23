@@ -70,8 +70,9 @@
       (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "ASIC2")
       (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Cali")
       (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Detector")
-      (Path "Outputs")
-      (Select "Design Resources" ".\feb_skiroc2 - v1.dsn"))
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Interface")
+      (Path "Design Resources" ".\feb_skiroc2 - v1.dsn" "Power")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -81,9 +82,31 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1665 50 534")
+        (Scroll "-298 103")
+        (Zoom "100")
+        (Occurrence "/Power"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
+      (Schematic "Power")
+      (Page "Power_Detector"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1690 75 559")
+        (Scroll "532 445")
+        (Zoom "184")
+        (Occurrence "/Power"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
+      (Schematic "Power")
+      (Page "Power_ASIC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
         (Placement "44 0 1 -1 -1 -8 -30 100 1715 100 584")
-        (Scroll "-197 0")
-        (Zoom "69")
+        (Scroll "576 702")
+        (Zoom "200")
         (Occurrence "/DET"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
@@ -93,8 +116,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 125 1740 125 609")
-        (Scroll "302 342")
-        (Zoom "106")
+        (Scroll "2947 1785")
+        (Zoom "424")
         (Occurrence "/SKIROC1"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
@@ -104,19 +127,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -30 150 1765 150 634")
-        (Scroll "0 300")
-        (Zoom "200")
-        (Occurrence "/Cali"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
-      (Schematic "Cali")
-      (Page "Cali"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1840 175 556")
-        (Scroll "2183 242")
-        (Zoom "200")
+        (Scroll "2736 1732")
+        (Zoom "400")
         (Occurrence "/SKIROC_2"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
@@ -125,57 +137,46 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
-        (Scroll "3492 3585")
-        (Zoom "544")
-        (Occurrence "/"))
+        (Placement "44 0 1 -1 -1 -8 -30 175 1790 175 659")
+        (Scroll "599 786")
+        (Zoom "288")
+        (Occurrence "/Cali"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
-      (Schematic "TOP")
-      (Page "TopLevel"))
+      (Schematic "Cali")
+      (Page "Cali"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 175 1840 175 556")
-        (Scroll "-48 0")
+        (Placement "44 0 1 -1 -1 -8 -30 200 1815 200 684")
+        (Scroll "-298 0")
+        (Zoom "100")
+        (Occurrence "/ADC"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
+      (Schematic "ADC")
+      (Page "ADC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1840 225 709")
+        (Scroll "0 280")
+        (Zoom "106")
+        (Occurrence "/Interface"))
+      (Path
+         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
+      (Schematic "Interface")
+      (Page "Inter_to_DIF"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1615 0 484")
+        (Scroll "-23 546")
         (Zoom "100")
         (Occurrence "/DET"))
       (Path
          "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
       (Schematic "Detector")
-      (Page "S8650"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 0 1665 0 381")
-        (Scroll "0 503")
-        (Zoom "144")
-        (Occurrence "/Power"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
-      (Schematic "Power")
-      (Page "Power_ASIC"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 25 1690 25 406")
-        (Scroll "0 582")
-        (Zoom "200")
-        (Occurrence "/Power"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
-      (Schematic "Power")
-      (Page "Power_Detector"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -30 50 1715 50 431")
-        (Scroll "1572 344")
-        (Zoom "400")
-        (Occurrence "/Interface"))
-      (Path
-         "E:\WORK_FILE\CEPC\SCHEMATIC-AMD-PCB-OF-DET_V1\FEB_SKIROC2 - V1.DSN")
-      (Schematic "Interface")
-      (Page "Inter_to_DIF")))
+      (Page "S8650")))
   (ISPCBBASICLICENSE "false")
   (MPSSessionName "Msy"))
