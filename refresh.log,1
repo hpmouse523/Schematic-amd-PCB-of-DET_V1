@@ -1,9 +1,9 @@
-Fri Aug 11 17:03:32 2017				Page     1
+Thu Aug 24 10:20:38 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Fri Aug 11 17:03:32 2017
+	Thu Aug 24 10:20:38 2017
 
 ------ Module Refresh Messages ------
 
@@ -13,3 +13,70 @@ SUMMARY:    Updated 0 out of 0 modules
 
 
 
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : FEB_DET_1V0.brd                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Aug 24 10:20:38 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Aug 24 10:20:38 2017				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/FEB_DET_1V0.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/Msy/AppData/Local/Temp/#Taaaaeh07560.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/symbols 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+
+PADPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/ 
+           E:/Work_File/FEE_DAQ_for_GEM/library2.0/pad/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/local/pcb/padstacks 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+
+'SKIROC2'  symbol starting to refresh:
+     ERROR(SPMHNI-254): Unable to load symbol, 'SKIROC2': 'ERROR(SPMHDB-243): Cannot modify element; the object or a parent has th~
+     e FIXED property. [help]'.
+     
+
+
+----- Symbol Update Summary ----
+
+Refresh symbol errors; due to these errors this design is NOT updated.
+       1  errors detected.
+       0  warnings detected.

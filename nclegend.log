@@ -1,13 +1,17 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    DBDOCTOR                                                         )
+(    DRILL LEGEND                                                     )
 (                                                                     )
 (    Drawing          : FEB_DET_1V0.brd                               )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Aug 24 20:47:33 2017                      )
+(    Date/Time        : Thu Aug 24 19:38:18 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
+Begin processing of drill legend template file 'C:/Cadence/Cadence_SPB_16.6-2015/share/pcb/text/nclegend/default-mil.dlt' ...
+End of drill legend template file processing.
 
-0 warnings, 0 errors detected, 0 errors could be fixed.
+Begin processing drill holes.
+Warning : Hole 8.000-0.000-C-P-0.000-0.000 uses multiple drill figures.
+End processing drill holes.

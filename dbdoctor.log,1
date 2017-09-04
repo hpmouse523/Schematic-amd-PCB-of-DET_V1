@@ -3,11 +3,15 @@
 (    DBDOCTOR                                                         )
 (                                                                     )
 (    Drawing          : FEB_DET_1V0.brd                               )
-(    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Thu Aug 24 20:47:33 2017                      )
+(    Software Version : 16.6-2015S064                                 )
+(    Date/Time        : Mon Aug 14 16:14:44 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-0 warnings, 0 errors detected, 0 errors could be fixed.
+WARNING   WARNING(SPMHDB-42): Run batch DRC to correctly regenerate DRC errs.
+
+1 warnings, 0 errors detected, 0 errors  fixed.
+
+Saved drawing E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/111.brd.

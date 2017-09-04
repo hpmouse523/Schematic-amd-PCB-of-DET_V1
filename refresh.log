@@ -1,9 +1,9 @@
-Tue Aug 15 20:10:44 2017				Page     1
+Thu Aug 24 11:01:22 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Aug 15 20:10:44 2017
+	Thu Aug 24 11:01:22 2017
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : FEB_DET_1V0.brd                               )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Tue Aug 15 20:10:44 2017                      )
+(    Date/Time        : Thu Aug 24 11:01:23 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Aug 15 20:10:44 2017				Page     1
+Thu Aug 24 11:01:23 2017				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -42,7 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
-Symbol list file                       = 'C:/Users/Msy/AppData/Local/Temp/#Taaaabg04160.tmp'
+Symbol list file                       = 'C:/Users/Msy/AppData/Local/Temp/#Taaaafc07560.tmp'
 
 
 ------ Library Paths ------
@@ -68,15 +68,11 @@ PADPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/
 
 ------ Symbol Refresh Messages ------
 
-
-'SKIROC2'  symbol starting to refresh:
-     ERROR(SPMHNI-254): Unable to load symbol, 'SKIROC2': 'ERROR(SPMHDB-243): Cannot modify element; the object or a parent has th~
-     e FIXED property. [help]'.
-     
+'LM6142_DFP'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Refresh symbol errors; due to these errors this design is NOT updated.
-       1  errors detected.
-       0  warnings detected.
+Updated symbols: 1 out 1
+    Design updated.
+

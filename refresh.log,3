@@ -1,9 +1,9 @@
-Tue Aug 15 20:08:24 2017				Page     1
+Thu Aug 24 10:25:03 2017				Page     1
 
 
  
 Update Symbols/Modules Logfile
-	Tue Aug 15 20:08:24 2017
+	Thu Aug 24 10:25:03 2017
 
 ------ Module Refresh Messages ------
 
@@ -19,12 +19,12 @@ SUMMARY:    Updated 0 out of 0 modules
 (                                                                     )
 (    Drawing          : FEB_DET_1V0.brd                               )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Tue Aug 15 20:08:24 2017                      )
+(    Date/Time        : Thu Aug 24 10:25:03 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
-Tue Aug 15 20:08:24 2017				Page     1
+Thu Aug 24 10:25:03 2017				Page     1
 
 
 ------ Symbol Refresh Directives ------
@@ -34,7 +34,7 @@ Output design = ''
 
 Update mechanical symbols              = 'NO'
 Update format symbols                  = 'NO'
-Update package symbols                 = 'YES'
+Update package symbols                 = 'NO'
 Update shape/flash symbols             = 'NO'
 Update symbol padstacks                = 'NO'
 Preserve padstacks replaced on pins    = 'NO'
@@ -42,6 +42,7 @@ Reset symbol text and size locations   = 'NO'
 Reset Pin Escapes (fanouts)            = 'NO'
 Ripup Etch                             = 'NO'
 Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/Msy/AppData/Local/Temp/#Taaaaeq07560.tmp'
 
 
 ------ Library Paths ------
@@ -67,30 +68,11 @@ PADPATH =  E:/Work_File/FEE_DAQ_for_GEM/library2.0/
 
 ------ Symbol Refresh Messages ------
 
-'SC0603'  symbol refreshed successfully.
-'SR0603'  symbol refreshed successfully.
-'S8650'  symbol refreshed successfully.
-'154744-ERNI'  symbol refreshed successfully.
-'2MM_HOLE'  symbol refreshed successfully.
-
-'SKIROC2'  symbol starting to refresh:
-     ERROR(SPMHNI-254): Unable to load symbol, 'SKIROC2': 'ERROR(SPMHDB-243): Cannot modify element; the object or a parent has th~
-     e FIXED property. [help]'.
-     
-'TPS7A85'  symbol refreshed successfully.
-'SIP-4P-156'  symbol refreshed successfully.
-'TLV5618_D_DFP'  symbol refreshed successfully.
-'SOT65P210X110-5N'  symbol refreshed successfully.
-'LM6142_DFP'  symbol refreshed successfully.
-'DBV6'  symbol refreshed successfully.
-'AD7944'  symbol refreshed successfully.
-'C11204_01'  symbol refreshed successfully.
-'MAA05A'  symbol refreshed successfully.
-'S5980'  symbol refreshed successfully.
+'SKIROC2'  symbol refreshed successfully.
 
 
 ----- Symbol Update Summary ----
 
-Updated symbols: 15 out 16
+Updated symbols: 1 out 1
     Design updated.
 

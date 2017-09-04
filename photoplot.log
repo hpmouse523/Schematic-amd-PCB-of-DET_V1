@@ -1,0 +1,1064 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : FEB_DET_1V0.brd                               )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Thu Aug 24 20:47:33 2017                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < art01 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/art01.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(3322.758 203.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1058.002 2603.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(384.998 3631.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(384.998 4479.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1023.000 6697.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1022.998 8716.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2530.998 8725.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4384.002 8133.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4384.000 8116.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5708.000 7272.530) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5708.002 6008.472) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(876.002 3631.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(695.998 3854.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(707.000 4192.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(707.002 4263.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(476.002 4271.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(905.000 2626.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(904.998 2551.498) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(839.000 4262.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2381.000 7685.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1238.502 7744.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1163.498 7744.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1838.302 6866.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1861.698 6867.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1966.702 6866.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1932.998 2798.498) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2381.998 6107.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2454.002 6106.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2268.472 2303.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4078.002 8291.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4078.000 8362.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3962.998 8478.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3891.002 8478.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3775.998 8362.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1150.498 8283.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1225.502 8283.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3322.758 226.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1050.000 320.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3459.003 7984.003) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.04000                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.08100                     0.000 NO     DARK 
+  SQUARE     0.10400                     0.000 NO     DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02760       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02760      90.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.14567      90.000 NO     DARK 
+  RECTANGLE  0.05800     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
+  OBLONG     0.01000     x 0.03200       0.000 NO     DARK 
+  OBLONG     0.01000     x 0.03200      90.000 NO     DARK 
+  OBLONG     0.04100     x 0.01800       0.000 NO     DARK 
+
+     art01 created with warnings
+
+
+================================================================
+     PROCESSING FILM < art03 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/art03.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(5500.530 3890.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4673.000 6001.530) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4367.757 6768.757) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+
+     art03 created with warnings
+
+
+================================================================
+     PROCESSING FILM < art06 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/art06.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(3748.530 2150.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4752.000 9043.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3940.402 6793.400) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01400                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+
+     art06 created with warnings
+
+
+================================================================
+     PROCESSING FILM < art08 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/art08.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(1070.998 5782.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4754.002 9043.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5646.000 7308.530) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4629.002 3809.472) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2388.000 3454.037) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2378.043 3464.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01600                                  DARK 
+  CIRCLE     0.01800                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.03500                                  DARK 
+  CIRCLE     0.05906                                  DARK 
+  CIRCLE     0.06000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.11000                     0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.11811       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921      90.000 NO     DARK 
+  RECTANGLE  0.13000     x 0.09500       0.000 NO     DARK 
+
+     art08 created with warnings
+
+
+================================================================
+     PROCESSING FILM < drill >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-1458.500 5141.500)
+           ... using undefined line width of 5.000
+
+    WARNING: 0 width line found at (96.000 191.000)
+           ... using undefined line width of 5.000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 5.000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+
+     drill created with warnings
+
+
+================================================================
+     PROCESSING FILM < pastbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/pastbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  RECTANGLE  0.02362     x 0.07874       0.000 NO     DARK 
+  RECTANGLE  0.02362     x 0.11811       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921      90.000 NO     DARK 
+  RECTANGLE  0.13000     x 0.09500       0.000 NO     DARK 
+
+     pastbottom created.
+
+
+================================================================
+     PROCESSING FILM < pastetop >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/pastetop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.03000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  SQUARE     0.03150                     0.000 NO     DARK 
+  SQUARE     0.06000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.08100                     0.000 NO     DARK 
+  SQUARE     0.10400                     0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02760       0.000 NO     DARK 
+  RECTANGLE  0.01200     x 0.02760      90.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.06299       0.000 NO     DARK 
+  RECTANGLE  0.02165     x 0.06299      90.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200       0.000 NO     DARK 
+  RECTANGLE  0.03000     x 0.03200      90.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500       0.000 NO     DARK 
+  RECTANGLE  0.03200     x 0.03500      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.04921      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.05000       0.000 NO     DARK 
+  RECTANGLE  0.04600     x 0.01400       0.000 NO     DARK 
+  RECTANGLE  0.05512     x 0.14567      90.000 NO     DARK 
+  RECTANGLE  0.05800     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.00984       0.000 NO     DARK 
+  RECTANGLE  0.08000     x 0.00984      90.000 NO     DARK 
+  RECTANGLE  0.10630     x 0.04720      90.000 NO     DARK 
+  OBLONG     0.01000     x 0.03200       0.000 NO     DARK 
+  OBLONG     0.01000     x 0.03200      90.000 NO     DARK 
+  OBLONG     0.04100     x 0.01800       0.000 NO     DARK 
+
+     pastetop created.
+
+
+================================================================
+     PROCESSING FILM < plane02 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/plane02.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02600                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.03500                                  CLEAR
+  CIRCLE     0.03600                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.14000                                  CLEAR
+  FLASH SYM  40                          0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  THS26X20X45X4X8             0.000 NO     CLEAR
+  FLASH SYM  160                         0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH             90.000 NO     CLEAR
+  FLASH SYM  FLASH_110_130_30           90.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            135.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            180.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            225.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            270.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                270.000 YES    CLEAR
+  FLASH SYM  CIR63_80                  270.000 NO     CLEAR
+
+     plane02 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane04 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/plane04.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+    WARNING: Segment with same start and end points at
+	(1193.002 1728.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1543.998 2259.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1843.998 2257.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2091.111 3687.736) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2091.111 3698.263) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1716.002 6624.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02600                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.03500                                  CLEAR
+  CIRCLE     0.03600                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.14000                                  CLEAR
+  CIRCLE     0.15000                                  CLEAR
+  CIRCLE     0.36000                                  CLEAR
+  FLASH SYM  THS26X20X45X4X8             0.000 NO     CLEAR
+  FLASH SYM  40                          0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH             90.000 NO     CLEAR
+  FLASH SYM  FLASH_110_130_30           90.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            135.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            180.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            225.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            270.000 NO     CLEAR
+  FLASH SYM  CIR63_80                  270.000 NO     CLEAR
+
+     plane04 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane05 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/plane05.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+    WARNING: Segment with same start and end points at
+	(2381.211 2559.968) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2247.188 1604.038) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3640.000 2502.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3640.002 2792.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3640.000 3076.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3640.002 3230.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3589.002 3835.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3384.444 3835.106) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3646.100 4039.833) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3654.000 4191.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3654.002 4351.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3653.002 7310.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(3659.002 6859.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2450.002 3589.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02600                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.03500                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.14000                                  CLEAR
+  FLASH SYM  32                          0.000 YES    CLEAR
+  FLASH SYM  THS26X20X45X4X8             0.000 NO     CLEAR
+  FLASH SYM  28                          0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  160                         0.000 NO     CLEAR
+  FLASH SYM  TR24X36X12                  0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH             90.000 NO     CLEAR
+  FLASH SYM  FLASH_110_130_30           90.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            135.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            180.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            225.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            270.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                270.000 YES    CLEAR
+  FLASH SYM  CIR63_80                  270.000 NO     CLEAR
+
+     plane05 created with warnings
+
+
+================================================================
+     PROCESSING FILM < plane07 >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/plane07.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       YES
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: No Photoplot Outline was found,
+negative shape outline will be determined by Board Outline
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02000                                  CLEAR
+  CIRCLE     0.02600                                  CLEAR
+  CIRCLE     0.02800                                  CLEAR
+  CIRCLE     0.03500                                  CLEAR
+  CIRCLE     0.03600                                  CLEAR
+  CIRCLE     0.04000                                  CLEAR
+  CIRCLE     0.07874                                  CLEAR
+  CIRCLE     0.08000                                  CLEAR
+  CIRCLE     0.14000                                  CLEAR
+  FLASH SYM  40                          0.000 NO     CLEAR
+  FLASH SYM  80                          0.000 NO     CLEAR
+  FLASH SYM  THS26X20X45X4X8             0.000 NO     CLEAR
+  FLASH SYM  160                         0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH              0.000 NO     CLEAR
+  FLASH SYM  TR120X150X30                0.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH             90.000 NO     CLEAR
+  FLASH SYM  FLASH_110_130_30           90.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            135.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            180.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            225.000 NO     CLEAR
+  FLASH SYM  VIA8_BGA_FLASH            270.000 NO     CLEAR
+  FLASH SYM  TR28X40X12                270.000 YES    CLEAR
+  FLASH SYM  CIR63_80                  270.000 NO     CLEAR
+
+     plane07 created with warnings
+
+
+================================================================
+     PROCESSING FILM < silkbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/silkbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     silkbottom created.
+
+
+================================================================
+     PROCESSING FILM < silktop >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/silktop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00236                                  DARK 
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00591                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+  CIRCLE     0.01968                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+
+     silktop created.
+
+
+================================================================
+     PROCESSING FILM < soldbottom >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/soldbottom.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.03200                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.12000                     0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.08268       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.12205       0.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.14000     x 0.10500       0.000 NO     DARK 
+
+     soldbottom created.
+
+
+================================================================
+     PROCESSING FILM < soldtop >
+     TO FILE < E:/Work_File/CEPC/Schematic-amd-PCB-of-DET_V1/soldtop.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                5.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00300                                  DARK 
+  CIRCLE     0.02100                                  DARK 
+  CIRCLE     0.02756                                  DARK 
+  CIRCLE     0.04400                                  DARK 
+  CIRCLE     0.04500                                  DARK 
+  CIRCLE     0.07000                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.11811                                  DARK 
+  CIRCLE     0.12000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.32000                                  DARK 
+  SQUARE     0.00100                     0.000 NO     DARK 
+  SQUARE     0.03350                     0.000 NO     DARK 
+  SQUARE     0.07000                     0.000 NO     DARK 
+  SQUARE     0.07500                     0.000 NO     DARK 
+  SQUARE     0.08700                     0.000 NO     DARK 
+  SQUARE     0.12000                     0.000 NO     DARK 
+  RECTANGLE  0.01570     x 0.03150       0.000 NO     DARK 
+  RECTANGLE  0.01570     x 0.03150      90.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.06693       0.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.06693      90.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.04000       0.000 NO     DARK 
+  RECTANGLE  0.03800     x 0.04000      90.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300       0.000 NO     DARK 
+  RECTANGLE  0.04000     x 0.04300      90.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.05512       0.000 NO     DARK 
+  RECTANGLE  0.04528     x 0.05512      90.000 NO     DARK 
+  RECTANGLE  0.05000     x 0.06000       0.000 NO     DARK 
+  RECTANGLE  0.05800     x 0.02200      90.000 NO     DARK 
+  RECTANGLE  0.06102     x 0.15157      90.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400       0.000 NO     DARK 
+  RECTANGLE  0.06500     x 0.07400      90.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.01181       0.000 NO     DARK 
+  RECTANGLE  0.08500     x 0.01181      90.000 NO     DARK 
+  RECTANGLE  0.11020     x 0.05120      90.000 NO     DARK 
+  OBLONG     0.01500     x 0.03700       0.000 NO     DARK 
+  OBLONG     0.01500     x 0.03700      90.000 NO     DARK 
+  OBLONG     0.04100     x 0.01800       0.000 NO     DARK 
+
+     soldtop created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        art01 created with warnings
+        art03 created with warnings
+        art06 created with warnings
+        art08 created with warnings
+        drill created with warnings
+        pastbottom created.
+        pastetop created.
+        plane02 created with warnings
+        plane04 created with warnings
+        plane05 created with warnings
+        plane07 created with warnings
+        silkbottom created.
+        silktop created.
+        soldbottom created.
+        soldtop created.
+
+ ARTWORK had warnings
