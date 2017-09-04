@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : FEB_DET_1V0.brd                               )
 (    Software Version : 16.6-2015S066                                 )
-(    Date/Time        : Mon Sep 04 10:49:41 2017                      )
+(    Date/Time        : Thu Aug 24 20:47:33 2017                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -13,23 +13,17 @@
 
 
 
-
- Can't open parameter file ... using default values:
-     DEVICE-TYPE        GERBER6X00
-     G-CODES            NO
-     STATIONS-PER-WHEEL 24
-     FILM-SIZE          24000 16000
-     COORDINATES        ABSOLUTE
-     OUTPUT-UNITS       INCHES
-     FORMAT             5.3
-     ABORT-ON-ERROR     abort film & continue
-     SUPPRESS-LEAD-ZEROES     YES
-     SUPPRESS-TRAIL-ZEROES    NO
-     OPTIMIZE           YES
-     SUPPRESS-EQUAL     YES
-     SCALE              1.0
-
-
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
 
 
 
@@ -462,10 +456,10 @@
   Suppress unconnected internal pads  NO
   Draw holes only                     NO
 
-    WARNING: text composed 0 width line found at (-2801.500 5166.500)
+    WARNING: text composed 0 width line found at (-1458.500 5141.500)
            ... using undefined line width of 5.000
 
-    WARNING: 0 width line found at (-93.000 20.000)
+    WARNING: 0 width line found at (96.000 191.000)
            ... using undefined line width of 5.000
 
     WARNING: Multiple 0 width lines; all will be treated the same as the first.
@@ -520,7 +514,7 @@
   RECTANGLE  0.03937     x 0.04921      90.000 NO     DARK 
   RECTANGLE  0.13000     x 0.09500       0.000 NO     DARK 
 
-     pastbottom created with warnings
+     pastbottom created.
 
 
 ================================================================
@@ -577,7 +571,7 @@
   OBLONG     0.01000     x 0.03200      90.000 NO     DARK 
   OBLONG     0.04100     x 0.01800       0.000 NO     DARK 
 
-     pastetop created with warnings
+     pastetop created.
 
 
 ================================================================
@@ -898,7 +892,7 @@ negative shape outline will be determined by Board Outline
   CIRCLE     0.00591                                  DARK 
   CIRCLE     0.00800                                  DARK 
 
-     silkbottom created with warnings
+     silkbottom created.
 
 
 ================================================================
@@ -937,7 +931,7 @@ negative shape outline will be determined by Board Outline
   CIRCLE     0.02000                                  DARK 
   CIRCLE     0.03937                                  DARK 
 
-     silktop created with warnings
+     silktop created.
 
 
 ================================================================
@@ -982,7 +976,7 @@ negative shape outline will be determined by Board Outline
   RECTANGLE  0.04528     x 0.05512      90.000 NO     DARK 
   RECTANGLE  0.14000     x 0.10500       0.000 NO     DARK 
 
-     soldbottom created with warnings
+     soldbottom created.
 
 
 ================================================================
@@ -1046,7 +1040,7 @@ negative shape outline will be determined by Board Outline
   OBLONG     0.01500     x 0.03700      90.000 NO     DARK 
   OBLONG     0.04100     x 0.01800       0.000 NO     DARK 
 
-     soldtop created with warnings
+     soldtop created.
 
 
 ------------------------------------------------------
@@ -1056,15 +1050,15 @@ negative shape outline will be determined by Board Outline
         art06 created with warnings
         art08 created with warnings
         drill created with warnings
-        pastbottom created with warnings
-        pastetop created with warnings
+        pastbottom created.
+        pastetop created.
         plane02 created with warnings
         plane04 created with warnings
         plane05 created with warnings
         plane07 created with warnings
-        silkbottom created with warnings
-        silktop created with warnings
-        soldbottom created with warnings
-        soldtop created with warnings
+        silkbottom created.
+        silktop created.
+        soldbottom created.
+        soldtop created.
 
  ARTWORK had warnings
